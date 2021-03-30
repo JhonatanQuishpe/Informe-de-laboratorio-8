@@ -72,23 +72,24 @@ Para el circuito de la figura 6.1, obtenga la potencia para cada valor de carga 
 ###### Tabla 6.1. Parámetros Eléctricos del circuito de la figura 6.1.
 
 
-aqui va la tabla de datos
 
-
-![](https://fotos.subefotos.com/cccbffaa8c982d66cc740dfaa3d96bebo.jpg)
+![](https://fotos.subefotos.com/92e729b6692e4923df490437e64a0a6ao.jpg)
 
 
 ###### Tabla 6.2. Calculos del porcentaje de error
 
-![](https://fotos.subefotos.com/aa242561d8384673d485c14e4491eb58o.jpg)
+![](https://fotos.subefotos.com/fca5f7dbcdfa6ed4f2e11569d872d3a6o.jpg)
 
 
+#### Preguntas
+6.5.4. ¿Se cumple el Teorema de la Máxima Transferencia de Potencia? Argumente su respuesta.
 
-preguntas
+Si se cumple debido a que en la tabla 6.1 se ve que llega a un máximo en la capacidad de dicho circuito de llegar a la máxima transferencia de potencia es decir que ya no importa si al aumentar la resistencia, la potencia obtenida de dicho circuito llegará hacer lo más alto. Lo contrario va a empezar a bajar dicho circuito como si fuese una desviación estándar.
+
+6.5.5. ¿Cuál fue la potencia máxima en RL? 0,0465 Watts
+6.5.6. ¿Para qué valor de RL se obtiene la MTP? 1000 Ω
 
 
-
-![](https://fotos.subefotos.com/46b690e5ffe0c166927a893fd6a1d653o.jpg)
 
 ## 8.	CONCLUSIONES Y RECOMENDACIONES: 
 
@@ -116,26 +117,16 @@ TEOREMA DE MAXIMA TRANSFERENCIA DE POTENCIA
 
 
 ## 10.	ANEXOS: 
-###### Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX
-voltaje 
-![](https://fotos.subefotos.com/9ce7d931dc5c36ff62a8b2f32607d4b2o.jpg)
-corriente
-![](https://fotos.subefotos.com/17391cdc62e983341857c0a0cc156246o.jpg)
 
+![](https://fotos.subefotos.com/cd92e6a61bd117e489a0b53f2c44c7b2o.jpg)
 
-###### Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, 
-voltaje
-![](https://fotos.subefotos.com/395687b548ed90a4a7f1175c1910ca90o.jpg)
-corriente
-![](https://fotos.subefotos.com/b251f7591415b2ffa3628dc92e48a4e5o.jpg)
+![](https://fotos.subefotos.com/93e1694c708fb4250bd3303f2195cebeo.jpg)
 
+![](https://fotos.subefotos.com/c56c179e704ce6863fc8d4b1e4a2232eo.jpg)
+![](https://fotos.subefotos.com/e88dad33544edcde50c628689931abc4o.jpg)
+![](https://fotos.subefotos.com/645b1b61da8228c8f3f4df3956984d25o.jpg)
+![](https://fotos.subefotos.com/84813449986b12b66f7c318da43d808co.jpg)
 
-###### Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX,
-voltaje
-![](https://fotos.subefotos.com/9bfff94741f2ef939b60005adb26d127o.jpg)
-corriente
-![](https://fotos.subefotos.com/94a6263c24a96abf34ac24557dd13147o.jpg)
 
 Video explicativo 
-[video del grupo en youtube](https://www.youtube.com/watch?v=bBfYEYT9nsk&feature=youtu.be)
-[segunda parte lab 1 calculo de corrientes](https://www.youtube.com/watch?v=_Au_3_axZe8 "segunda parte lab 1")
+[video del grupo en youtube](https://www.youtube.com/watch?v=7b4bbx8dIrA)
