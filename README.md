@@ -89,8 +89,6 @@ Si se cumple debido a que en la tabla 6.1 se ve que llega a un máximo en la cap
 6.5.5. ¿Cuál fue la potencia máxima en RL? 0,0465 Watts
 6.5.6. ¿Para qué valor de RL se obtiene la MTP? 1000 Ω
 
-
-
 ## 8.	CONCLUSIONES Y RECOMENDACIONES: 
 
 CONCLUSIONES 
@@ -112,8 +110,6 @@ TEOREMA DE MAXIMA TRANSFERENCIA DE POTENCIA
 [H.W. Jackson (1959) Introduction to Electronic Circuits, Prentice-Hall.](https://es.wikipedia.org/wiki/Teorema_de_m%C3%A1xima_potencia#:~:text=En%20ingenier%C3%ADa%20el%C3%A9ctrica%2C%20electricidad%20y,a%20la%20resistencia%20de%20fuente.)
 
 [Willy McAllister (primavera del 2006), Tansferencia de potencia maxima, Khan Academy](https://lafisicayquimica.com/teorema-de-transferencia-de-potencia-maxima/)
-
-
 
 
 ## 10.	ANEXOS: 
