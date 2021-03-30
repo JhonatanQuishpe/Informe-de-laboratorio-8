@@ -119,8 +119,11 @@ TEOREMA DE MAXIMA TRANSFERENCIA DE POTENCIA
 ![](https://fotos.subefotos.com/93e1694c708fb4250bd3303f2195cebeo.jpg)
 
 ![](https://fotos.subefotos.com/c56c179e704ce6863fc8d4b1e4a2232eo.jpg)
+
 ![](https://fotos.subefotos.com/e88dad33544edcde50c628689931abc4o.jpg)
+
 ![](https://fotos.subefotos.com/645b1b61da8228c8f3f4df3956984d25o.jpg)
+
 ![](https://fotos.subefotos.com/84813449986b12b66f7c318da43d808co.jpg)
 
 
